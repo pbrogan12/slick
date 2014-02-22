@@ -1,0 +1,5 @@
+[gerrit]
+host=192.168.1.69
+port=29418
+project=slick
+defaultbranch=gh-pages
